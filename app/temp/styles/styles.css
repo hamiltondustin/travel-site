@@ -601,6 +601,11 @@ a {
 		color: #fff;
 	}
 
+.page-section--testimonials {
+		background: url('/assets/images/testimonials-bg.jpg') top center no-repeat;
+		background-size: cover;
+	}
+
 .headline {
 	font-size: 1.9rem;
 	font-weight: 300;
