@@ -11,6 +11,13 @@
 		font-weight: 500;
 	}
 
+<<<<<<< HEAD
+=======
+	&--blue {
+		color: $mainBlue;
+	}
+
+>>>>>>> testimonials
 	&__icon {
 		display: block;
 		margin-left: auto;
@@ -18,6 +25,11 @@
 		margin-bottom: .6rem;
 
 		@mixin atSmall {
+<<<<<<< HEAD
+=======
+			position: relative;
+			top: 8px;
+>>>>>>> testimonials
 			margin-right: .5rem;
 			margin-left: 0;	
 			margin-bottom: 0;
